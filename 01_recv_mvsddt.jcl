@@ -66,3 +66,14 @@
  COPY INDD=((DDTLOAD,R)),OUTDD=LPALIB
  SELECT MEMBER=(IGC0023C)
 /*
+//******************************************************************/
+//* COPY PROGRAMS TO LINKLIB                                       */
+//******************************************************************/
+//COPYLINK  EXEC PGM=IEBCOPY
+//LINKLIB   DD  DISP=SHR,DSN=SYS2.LINKLIB
+//DDTLOAD  DD  DISP=SHR,DSN=SYSGEN.DDT.LOAD
+//SYSPRINT DD  SYSOUT=*
+//SYSIN    DD  *
+ COPY INDD=((DDTLOAD,R)),OUTDD=LINKLIB
+ SELECT MEMBER=(MVSDDT,DDTSYM,DDT)
+/*
