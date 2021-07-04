@@ -1,0 +1,45 @@
+End User License Agreement (EULA)
+
+Herein "AUTHOR" shall refer to Shelby Lynne Beach, "PRODUCT" shall refer to products developed and provided by Shelby Lynne Beach, "SERVICES" shall refer to services developed and provided by Shelby Lynne Beach, "USER" shall refer to you, the user (either as an individual, single entity or group).
+
+This End User License Agreement (EULA) is an agreement between you, the USER and the aforementioned AUTHOR. By using the aforementioned AUTHOR's PRODUCTS, SERVICES and all other documents associated with and/or accompanying such, you agree to have read, fully understand and agree to be bound by, the terms set out below.
+
+   I. PRODUCTS
+
+      All PRODUCTS and accompanying materials provided by the AUTHOR, are provided "as is", without warranty. By using the PRODUCTS, you agree not to hold the AUTHOR liable for any damages that may occur.
+
+   II. SERVICES
+
+      All SERVICES and accompanying materials provided by the AUTHOR, are provided "as is", without warranty. By using the SERVICES, you agree not to hold the AUTHOR liable for any damages that may occur. Further you agree that SERVICES may be discontinued at any time, without prior notification.
+
+   III. LICENSE
+
+      Under the terms of this agreement, a non-exclusive [FREEWARE] license is granted to the USER on the understanding the AUTHOR retains ALL rights to SERVICES, PRODUCTS, written materials and other such supplies.
+
+      Under this agreement, you are free to download and/or use the SERVICES and PRODUCTS provided by the AUTHOR for both personal and commercial use, but are NOT permitted to attempt to modify, de-compile, merge, sell, lease or otherwise misuse said AUTHOR's PRODUCTS and/or SERVICES, including but not limited to, all graphics, documents and other such file's.
+
+   IV. DISTRIBUTION
+
+      Under the terms of this agreement, the AUTHOR grants you a non-exclusive license to re-distribute all PRODUCTS provided by said AUTHOR, on the understanding no attempt is made to sell or otherwise personally or financially gain from the distribution of such PRODUCTS. All file's provided MUST remain unchanged and in full, including, but not limited to: Readme, EULA, DISTRIBUTION, Help, PRODUCT and all other such file's.
+
+   V. DISTRIBUTION RESTRICTIONS
+
+      Whilst the AUTHOR grants you permission to distribute said AUTHOR's PRODUCTS, the following restrictions apply in all cases where the PRODUCT and/or SERVICE has been developed and/or [is] provided by, said AUTHOR.
+
+      You may not list any of the AUTHOR's PRODUCTS on websites that charge for access to listings, downloadable file's or other such material.
+
+      You may not list or distribute said AUTHOR's PRODUCTS via cd-rom or other such media, except where charges are for postage only.
+
+      You may not "bundle" ANY of said AUTHOR's products with ANY product and/or service that has not been developed and/or [is] provided by said AUTHOR.
+
+      If including said AUTHOR's PRODUCTS on media such as CD-ROM, DVD, floppy diskette, the AUTHOR must be informed prior to your doing so. Additionally, said AUTHOR reserves the right to be sent a copy of such media without charge, monetary or otherwise.
+
+      Under the terms of this agreement, distribution of SERVICES provided by the AUTHOR is expressly forbidden unless written permission has been granted by said AUTHOR. In cases where written permission has been given, said AUTHOR reserves the right to charge a nominal fee to cover potential administration costs and/or costs related to source file's.
+
+   VI. EULA MODIFICATIONS
+
+      The aforementioned AUTHOR reserves the right to modify this EULA at any time, without notice. Should such a modification take place, the USER is expected to read and agree to such modifications within 7 days. Failure to agree to such modifications shall require said USER cease using said AUTHOR's PRODUCTS and/or SERVICES.
+
+   VII. EULA TERMINATION
+
+      Said AUTHOR reserves the right to terminate this agreement at any time, in whole or part without notice or prior warning. Should such a termination take place, the USER shall be granted a non-exclusive gratis license to carry on using said AUTHOR's PRODUCTS and/or SERVICES with the same restrictions above, but with the understanding, no support shall be provided for said PRODUCT and/or SERVICE. Said gratis license shall apply for a period no less than 3 years, and no more than 500 years.

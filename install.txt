@@ -1,0 +1,6 @@
+# MVSDDT Install
+/$CA
+$HASP000 OK;sh ./submit.sh ../SOFTWARE/MVSDDT/01_recv_mvsddt.jcl
+/*IEF233A M 100,000901,,MVSDDTRE,RELOAD;devinit 100 ../SOFTWARE/MVSDDT/mvsddt.het
+/ $HASP395 MVSDDT ENDED;sh echo "abc"
+# Install complete
